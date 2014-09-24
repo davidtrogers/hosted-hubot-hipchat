@@ -6,7 +6,7 @@
 4. Do steps 6 and 7
 4. Do steps 9 and on (for step 10, you only have to `% heroku create`, i.e. don't have to rename it)
 
-optionally, you can set __yourself__ up as a bot, just set your JID and password to your own credentials.
+optionally, you can set __yourself__ up as a bot, just set your JID and password to your own credentials and skip step 1 above.
 
 
 # Hubot
