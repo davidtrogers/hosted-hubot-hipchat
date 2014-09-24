@@ -3,7 +3,8 @@
 1. Clone this repo locally
 2. Do steps 1-3 [here](https://github.com/hipchat/hubot-hipchat)
 3. cd to the cloned directory
-4. Do steps 10 and on (for step 10, you only have to `% heroku create`, i.e. don't have to rename it)
+4. Do steps 6 and 7
+4. Do steps 9 and on (for step 10, you only have to `% heroku create`, i.e. don't have to rename it)
 
 optionally, you can set __yourself__ up as a bot, just set your JID and password to your own credentials.
 
